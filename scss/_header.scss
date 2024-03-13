@@ -1,0 +1,450 @@
+/*Mi Rutina*/
+.back-mirutina {
+    background-color: rgba(182, 155, 155, 0.4);
+  }
+  
+  .titulo-mirutina {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .parrafo-mirutina {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 30px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .trensuperior-mirutina {
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    margin-top: 30px;
+  }
+  
+  .treninferior-mirutina {
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 140px;
+    text-align: center;
+  }
+  
+  .pecho-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .pecho-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+  }
+  
+  .triceps-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .triceps-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .hombro-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .hombro-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .biceps-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .biceps-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .espalda-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .espalda-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .gluteo-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 20px;
+  }
+  
+  .gluteo-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .cuadriceps-parraffo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .cuadriceps-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  .femoral-parrafo {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    margin-top: 120px;
+  }
+  
+  .femoral-video {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    display: grid;
+    grid-template-columns: 400px 400px;
+    grid-template-rows: 150px;
+    column-gap: 100px;
+  }
+  
+  /*Suplementos*/
+  .back-suplementos {
+    background-color: rgba(182, 155, 155, 0.4);
+  }
+  
+  .titulo-suplementos {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .parrafo-suplementos {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    width: 40%;
+    margin-left: 530px;
+  }
+  
+  button {
+    border-radius: 5px;
+    background-color: white;
+    font-weight: lighter;
+    font-size: 15px;
+  }
+  
+  .productos {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    img {
+      width: 80%;
+      margin-top: 10px;
+    }
+  }
+  
+  .proteina {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  .creatina {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  .preworkout {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  .glutamina {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 210px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  .vitaminas {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  .aminos {
+    background-color: rgb(75, 73, 73);
+    height: 620px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: lighter;
+  }
+  
+  button {
+    border-radius: 5px;
+    background-color: white;
+    font-weight: lighter;
+    font-size: 15px;
+    bottom: 0;
+    position: absolute;
+    margin: auto;
+  }
+  
+  /*Ayuda*/
+  .back-ayuda {
+    background-color: rgba(182, 155, 155, 0.4);
+  }
+  
+  .titulos-ayuda1 {
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .titulo-ayuda {
+    font-size: 18px;
+  }
+  
+  .titulos-ayuda2 {
+    color: black;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .tips-ayuda ol {
+    color: black;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-bottom: 30px;
+    text-align: start;
+    margin-left: 20px;
+  }
+  
+  .consejos-ayuda {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: start;
+    margin-left: 150px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    font-size: 17px;
+    color: white;
+  }
+  
+  .titulo-playlist-ayuda {
+    font-family: 'Noto Sans JP', sans-serif;
+    text-align: center;
+    margin-top: 58px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 150px;
+    font-size: medium;
+    color: white;
+  }
+  
+  .playlist {
+    text-align: center;
+    margin-top: 30px;
+  }
+  
+  /*Contacto*/
+  .back-contacto {
+    background-color: rgba(182, 155, 155, 0.4);
+  }
+  
+  .titulo-contacto {
+    color: white;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    width: 80%;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  .parrafo-contacto {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    width: 40%;
+    margin-left: 530px;
+  }
+  
+  .parrafo2-contacto {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    width: 40%;
+    margin-left: 530px;
+    margin-top: 50px;
+  }
+  
+  .formulario {
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-top: 50px;
+    box-shadow: 0 0 0 10px rgba(23, 60, 124, 0.211);
+    border-radius: 30px;
+    height: 400px;
+    width: 300px;
+    margin-left: 730px;
+  }
+  

@@ -1,0 +1,50 @@
+/*INDEX*/
+.menu {
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  
+  .img-back-index { 
+    background-image: url(../img/pexels-abdulrhman-alkady-14616295.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .titulo-index {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10px;
+    margin-left: 850px;
+    background: rgb(0, 0, 0, 0.8);
+    border-radius: 20px;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .info-index {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: white;
+    background: rgb(0, 0, 0, 0.8);
+    text-align: center;
+    padding: 15px;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 850px;
+  }
+  
+  .tips-index {
+    margin-top: 430px;
+    background: rgb(0, 0, 0, 0.8);
+    color: aliceblue;
+    font-weight: 700;
+    width: 40%;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 1020px;
+  }
+  
+  ol li {
+    list-style: none;
+  }
